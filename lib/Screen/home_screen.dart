@@ -50,7 +50,7 @@ class _HomeScreenState extends State<HomeScreen> {
       _timer?.cancel(); // Cancel the previous timer when reset is true
     }
 
-    _timer = Timer.periodic(Duration(seconds: 4), (Timer timer) {
+    _timer = Timer.periodic(Duration(seconds: 5), (Timer timer) {
       if (_currentPage < _getArticleLength(snapshot) - 1) {
         _currentPage++;
       } else {
