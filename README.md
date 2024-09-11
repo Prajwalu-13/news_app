@@ -86,9 +86,9 @@ The app follows the MVVM (Model-View-ViewModel) architecture:
 ### Home Screen
 
 <p align="center">
-  <img src="assets/images/splash.jpg" alt="Home Screen" width="45%" />
-  <img src="assets/images/homescreen.jpg" alt="Home Screen" width="45%" />
-  <img src="assets/images/homescreendata.jpg" alt="Home Screen Data" width="45%" />
+  <img src="assets/images/splash.jpg" alt="Home Screen" height="30%" width="25%" />
+  <img src="assets/images/homescreen.jpg" alt="Home Screen" height="30%" width="25%" />
+  <img src="assets/images/homescreendata.jpg" alt="Home Screen Data" height="30%" width="25%" />
 </p>
 *Home Screen and Home Screen Data*
 
