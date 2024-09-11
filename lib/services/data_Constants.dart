@@ -3,6 +3,4 @@ class DataConstants {
   static String baseUrl = 'https://newsapi.org/v2/';
 }
 
-/** Extra api keys **/
-
-/// 955e49f330bd4aee97bf4e09a3be20e9
+/// Extra api_key : 955e49f330bd4aee97bf4e09a3be20e9
