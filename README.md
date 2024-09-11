@@ -83,8 +83,14 @@ The app follows the MVVM (Model-View-ViewModel) architecture:
 
 ## Screenshots
 
-![Home Screen](assets/images/splash.jpg)  
-*Home Screen*
+### Home Screen
+
+<p align="center">
+  <img src="assets/images/splash.jpg" alt="Home Screen" width="45%" />
+  <img src="assets/images/homescreen.jpg" alt="Home Screen" width="45%" />
+  <img src="assets/images/homescreendata.jpg" alt="Home Screen Data" width="45%" />
+</p>
+*Home Screen and Home Screen Data*
 
 ![Search Functionality](path/to/search_functionality_image.png)  
 *Search Functionality*
