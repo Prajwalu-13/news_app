@@ -92,10 +92,21 @@ The app follows the MVVM (Model-View-ViewModel) architecture:
 </p>
 *Home Screen and Home Screen Data*
 
-![Search Functionality](path/to/search_functionality_image.png)  
-*Search Functionality*
+### Search Result & Categories
 
-![Theme Change](path/to/theme_change_image.png)  
+<p align="center">
+  <img src="assets/images/searchresult.jpg" alt="Home Screen" height="25%" width="25%" />
+  <img src="assets/images/category.jpg" alt="Home Screen" height="25%" width="25%" />
+  <img src="assets/images/categoriesdark.jpg" alt="Home Screen Data" height="25%" width="25%" />
+</p>
+*Search Functionality & Categories*
+
+### Light & Dark Mode
+<p align="center">
+  <img src="assets/images/homescreen.jpg" alt="Home Screen" height="25%" width="25%" />
+  <img src="assets/images/homescreen-dark.jpg" alt="Home Screen" height="25%" width="25%" />
+</p>
+
 *Theme Change*
 
 ## License
