@@ -109,6 +109,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture:
 
 *Theme Change*
 
-## License
+## Edge Case
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+If api doesn't work then replace the api key from them key given in the comment section of the Themeconstants.
+
